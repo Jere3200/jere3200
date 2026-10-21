@@ -2,7 +2,7 @@
  
 Desarrollador web junior y estudiante avanzado de Analista en Sistemas de Información (IRESM, Villa Carlos Paz, Córdoba). Busco mi primer puesto como desarrollador web o analista de sistemas.
  
-> Mis repositorios son privados porque son productos en uso. Si estás evaluando mi perfil, escribime y te muestro el código en una llamada o en la entrevista.
+> El código de Empleos Carlos Paz y de HydroVision es privado porque son productos en uso. Si estás evaluando mi perfil, escribime y te lo muestro en una llamada o en la entrevista. El trabajo práctico de Deploy Club sí es público.
  
 ## Proyectos
  
@@ -46,3 +46,4 @@ Escribo la especificación antes del código, documento las decisiones important
  
 - [LinkedIn](https://www.linkedin.com/in/jeremiasfernandezit/)
 - jfjerefernandez@gmail.com
+ 

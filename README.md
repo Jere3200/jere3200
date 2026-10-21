@@ -24,6 +24,14 @@ Proyecto final de carrera, co-desarrollado con [Adrián Ramírez](https://www.li
 - Requisitos especificados con OpenSpec, 17 decisiones documentadas como ADR, tests con Vitest y tres pruebas de campo.
 `Next.js` `React` `TypeScript` `Node.js` `PostgreSQL` `Prisma` `Tesseract.js` `Leaflet` `Vitest`
  
+### [Deploy Club, sistema de reservas](https://clubdeploy.online) (código público)
+Trabajo práctico grupal de la carrera (equipo de 4, Scrum): reservas de canchas de tenis, pádel y fútbol 5. [Ver el código](https://github.com/rociobazan/club-deportivo-deploy).
+ 
+- API REST con enfoque API-First, especificada con OpenSpec antes de programar.
+- Git Flow, revisión de pull requests y CI/CD con GitHub Actions.
+- Despliegue en AWS EC2 con Docker Compose.
+`Next.js` `Nest.js` `PostgreSQL` `Docker` `AWS EC2` `GitHub Actions`
+ 
 ## Cómo trabajo
  
 Escribo la especificación antes del código, documento las decisiones importantes y uso asistentes de IA dentro de un flujo con control de versiones, tests y CI/CD.
